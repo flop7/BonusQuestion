@@ -3,12 +3,16 @@ package bonusquestion;
 public class BonusQuestion {
 
 
+ BonusQuestion obj= new BonusQuestion();
 
 public class Question{
 
 }
 
+String question= " Hello";
+StringQuestionUppercase= question.toUpperCase():
 
+String input= "Hi";
 
 }
 
